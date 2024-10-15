@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi ! I am a research scientist with a keen interest in improving healthcare through technology.
 
 <!--
 **edoguqmul/edoguqmul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
